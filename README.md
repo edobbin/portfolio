@@ -1,0 +1,1 @@
+The second iteration of my web portfolio. This one will be made using react and will likely be hosted with either AWS or Firebase. The app will utilize components and hooks inorder to showcase my other projects ranging from big to small ones.
